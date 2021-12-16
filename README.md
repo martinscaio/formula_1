@@ -1,0 +1,3 @@
+# Formula 1
+
+Incompleto. Falta terminar as analises, gráficos....
